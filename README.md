@@ -118,15 +118,15 @@ Main Menu:
 
 ### Main Menu
 
-![Main Menu](images/Captura de tela 2026-06-18 110428.png)
+![Main Menu](images/menu_principal.png)
 
 ### Books Management
 
-![Books](images/Captura de tela 2026-06-18 110546.png)
+![Books](images/livros.png)
 
 ### Loan Management
 
-![Loans](images/Captura de tela 2026-06-18 110758.png)
+![Loans](images/emprestimos.png)
 
 ---
 
